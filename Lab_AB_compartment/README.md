@@ -2,7 +2,7 @@
 # -- codes to fit ABindex models
 ## 1. System requirements
 
-- (1) R 3.5
+- (1) R 3.6
 - (2) python 2.7
 
 ## 2. Installation guide
