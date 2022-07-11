@@ -1,5 +1,5 @@
 # Lab_genes_RPS
-# -- codes to fit PEI_RPS models
+# -- codes to fit genes RPS models
 
 ## 1. System requirements
 
