@@ -5,7 +5,7 @@
 - python 3.7
 - bedtools
 
-2. Installation guide
+## 2. Installation guide
 
 - No installation needed
 - As an example， execute the following code：
